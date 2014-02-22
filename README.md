@@ -16,3 +16,7 @@ Set [Cam (5,4,3) (0,1,0)]
 
 ![Screenshot](1.jpg)
 ![Screenshot](2.jpg)
+![Screenshot](hard_shadow.png)
+![Screenshot](infinity.png)
+![Screenshot](mirror.png)
+![Screenshot](testscene.png)
